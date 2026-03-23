@@ -1,0 +1,19 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Sensitive info - CRITICAL
+.env
+
+# IDE stuff
+.vscode/
+.idea/
+
+# OS stuff
+.DS_Store
+Thumbs.db

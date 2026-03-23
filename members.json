@@ -1,0 +1,45 @@
+[
+    {
+        "$schema": "https://example.com/schemas/team-members.json",
+        "name": "Alice",
+        "role": "Developer",
+        "title": "The Architect",
+        "catchphrase": "Let's build something awesome.",
+        "traits": "Loves refactoring code and writing documentation."
+    },
+    {
+        "name": "Bob",
+        "role": "Tester",
+        "title": "The Debugger",
+        "catchphrase": "Did you test this?",
+        "traits": "Always finds the edge cases."
+    },
+    {
+        "name": "Charlie",
+        "role": "Designer",
+        "title": "The Visionary",
+        "catchphrase": "Needs more whitespace.",
+        "traits": "Obsessed with pixel-perfect designs."
+    },
+    {
+        "name": "Dave",
+        "role": "Product Manager",
+        "title": "The Mastermind",
+        "catchphrase": "Let's take this offline.",
+        "traits": "Loves writing user stories and organizing sprints."
+    },
+    {
+        "name": "Eve",
+        "role": "DevOps",
+        "title": "The Tank",
+        "catchphrase": "The pipeline is broken again.",
+        "traits": "Keeps the servers running no matter what."
+    },
+    {
+        "name": "Frank",
+        "role": "Researcher",
+        "title": "The Wildcard",
+        "catchphrase": "I read a paper about this.",
+        "traits": "Always looking for the next big thing."
+    }
+]
